@@ -16,6 +16,7 @@ This project turns an LED on and off using a push-button connected to the Elegoo
 - Push-button
 - LED
 - 220Ω resistor
+- 10kΩ resistor
 - Jumper wires
 
 ## 📝 How It Works
